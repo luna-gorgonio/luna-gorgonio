@@ -37,7 +37,7 @@ Procuro sempre colaborar, ajudar e estudar com outras pessoas para desenvolvermo
   <a href = "mailto:lunlu.personal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://https://www.linkedin.com/in/luana-fonseca-gorgonio-741893265/" target="_blank">
+  <a href="www.linkedin.com/in/luna-gorgonio" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://open.spotify.com/playlist/6r6dOlTKL6aM3w8NUDF7hB?si=89b7aefd04184e85" target="_blank">
