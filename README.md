@@ -1,16 +1,46 @@
-### Hi there 👋
+##
+<div align='center'>
+  💚 Estudando <b>Desenvolvimento Web</b> na <b>Trybe</b> - <b>Turma 31 - Tribo B</b> 💚
+</div><br>
 
-<!--
-**luna-gorgonio/luna-gorgonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+Olá, meu nome é Luana, mas pode me chamar de Luna. Tenho 22 anos e adoro robôs e tecnologia! Em minha trajetória fiz cursos diversos como piano e canto, tenho uma experiência de nível mediana em inglês. Estou sempre pesquisando algo novo para aprender, seja uma língua nova ou uma curiosidade aleatória. No meu tempo livre, além de certos hobbies, trabalho sozinha em um projeto de um bot muito especial.
+</div>
+<p>
+<div align='center'>Também me orgulho em dizer que após 6 anos, venci a depressão, e minha maior fonte de alegria atualmente é alegrar o dia de outro alguém.
+</div>
+<p>
+<div align='center'>
+Procuro sempre colaborar, ajudar e estudar com outras pessoas para desenvolvermos novas habilidades juntos.
+<br>
+(embora eu esteja apanhando do terminal no momento, vou dar o meu melhor para ajudar quem precisar)
+</div>
+<p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+      </td>
+      <td>
+          <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px">
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+<div align="center">
+  <a href = "mailto:lunlu.personal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://https://www.linkedin.com/in/luana-fonseca-gorgonio-741893265/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a>
+</div>
