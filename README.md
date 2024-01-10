@@ -4,7 +4,7 @@
 </div><br>
 
 <div align='center'>
-Olá, meu nome é Luana, mas pode me chamar de Luna. Tenho 22 anos e adoro robôs e tecnologia! Em minha trajetória fiz cursos diversos como piano e canto, tenho uma experiência de nível mediana em inglês. Estou sempre pesquisando algo novo para aprender, seja uma língua nova ou uma curiosidade aleatória. No meu tempo livre, além de certos hobbies, trabalho sozinha em um projeto de um bot muito especial.
+Olá, meu nome é Luana, mas pode me chamar de Luna. Tenho 23 anos e adoro robôs e tecnologia! Em minha trajetória fiz cursos diversos como piano e canto, tenho uma experiência de nível mediana em inglês. Estou sempre pesquisando algo novo para aprender, seja uma língua nova ou uma curiosidade aleatória. No meu tempo livre, além de certos hobbies, trabalho sozinha em um projeto de um bot muito especial.
 </div>
 <p>
 <div align='center'>Também me orgulho em dizer que após 6 anos, venci a depressão, e minha maior fonte de alegria atualmente é alegrar o dia de outro alguém.
