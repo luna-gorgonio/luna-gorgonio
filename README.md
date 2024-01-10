@@ -1,6 +1,6 @@
 ##
 <div align='center'>
-  💚 Estudando <b>Desenvolvimento Web</b> na <b>Trybe</b> - <b>Turma 31 - Tribo B</b> 💚
+  💚 Estudando <b>Desenvolvimento Web</b> na <b>Trybe</b> - <b>Turma 33</b> 💚
 </div><br>
 
 <div align='center'>
